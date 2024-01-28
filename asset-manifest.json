@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vakka.github.io/maahender/static/css/main.e6c13ad2.css",
+    "main.js": "/vakka.github.io/maahender/static/js/main.1367a8de.js",
+    "static/js/787.94e18365.chunk.js": "/vakka.github.io/maahender/static/js/787.94e18365.chunk.js",
+    "index.html": "/vakka.github.io/maahender/index.html",
+    "main.e6c13ad2.css.map": "/vakka.github.io/maahender/static/css/main.e6c13ad2.css.map",
+    "main.1367a8de.js.map": "/vakka.github.io/maahender/static/js/main.1367a8de.js.map",
+    "787.94e18365.chunk.js.map": "/vakka.github.io/maahender/static/js/787.94e18365.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1367a8de.js"
+  ]
+}
